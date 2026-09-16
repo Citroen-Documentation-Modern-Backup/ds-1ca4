@@ -1,0 +1,18 @@
+{
+ "ref": "023502532002J",
+ "refDisplay": "0235 02 532002J",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION DEPUIS OPR 09883",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0303"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "023502140030G",
+ "refDisplay": "0235 02 140030G",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": "SYSTEME INJECTION BOSCH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

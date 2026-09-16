@@ -1,0 +1,33 @@
+{
+ "ref": "023505521902A",
+ "refDisplay": "0235 05 521902A",
+ "title": "INTERRUPTEURS ET OBTURATEURS PLANCHE D B",
+ "nature": "",
+ "applicability": "MONTAGE MULTIPLEXE CAN CAN DEPUIS OPR 10430",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0212"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0FS1",
+   "fctId": "FCT0212"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6Q",
+   "fctId": "FCT0212"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0212"
+  }
+ ]
+}

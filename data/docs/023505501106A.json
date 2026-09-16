@@ -1,0 +1,18 @@
+{
+ "ref": "023505501106A",
+ "refDisplay": "0235 05 501106A",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "MONTAGE MULTIPLEXE CAN CAN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0308"
+  }
+ ]
+}

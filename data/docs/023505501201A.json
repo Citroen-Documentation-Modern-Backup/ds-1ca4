@@ -1,0 +1,18 @@
+{
+ "ref": "023505501201A",
+ "refDisplay": "0235 05 501201A",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6Q",
+   "fctId": "FCT0308"
+  }
+ ]
+}

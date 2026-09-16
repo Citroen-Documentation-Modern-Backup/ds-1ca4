@@ -1,0 +1,18 @@
+{
+ "ref": "023502144151A",
+ "refDisplay": "0235 02 144151A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) ET SYSTEME INJECTION BOSCH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

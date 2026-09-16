@@ -1,0 +1,33 @@
+{
+ "ref": "023504454108A",
+ "refDisplay": "0235 04 454108A",
+ "title": "BOITIER ANTIBLOCAGE CALCULATEUR",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE ET SANS SYSTEME ESP DEPUIS OPR 10801",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0FS1",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6Q",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0340"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "023502170010A",
+ "refDisplay": "0235 02 170010A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10618",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0010"
+  }
+ ]
+}

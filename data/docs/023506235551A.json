@@ -1,0 +1,18 @@
+{
+ "ref": "023506235551A",
+ "refDisplay": "0235 06 235551A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR EP:27 - 16 DM2 ALU BRASE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0009"
+  }
+ ]
+}

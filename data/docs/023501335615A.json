@@ -1,0 +1,18 @@
+{
+ "ref": "023501335615A",
+ "refDisplay": "0235 01 335615A",
+ "title": "COMMANDE VITESSES",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE JUSQU’A OPR 10499 SAUF MONTAGE MULTIPLEXE CAN CAN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0018"
+  }
+ ]
+}

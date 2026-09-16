@@ -1,0 +1,18 @@
+{
+ "ref": "023506236080A",
+ "refDisplay": "0235 06 236080A",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10249",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6Q",
+   "fctId": "FCT0009"
+  }
+ ]
+}

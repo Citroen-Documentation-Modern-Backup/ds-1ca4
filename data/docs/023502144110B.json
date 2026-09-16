@@ -1,0 +1,18 @@
+{
+ "ref": "023502144110B",
+ "refDisplay": "0235 02 144110B",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10402",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0010"
+  }
+ ]
+}

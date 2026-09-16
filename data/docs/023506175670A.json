@@ -1,0 +1,18 @@
+{
+ "ref": "023506175670A",
+ "refDisplay": "0235 06 175670A",
+ "title": "RECYCLAGE GAZ ECHAPPEMENT",
+ "nature": "",
+ "applicability": "DEPOL TECHNIQUE VEHICULE INCITATION FISCALE EURO 4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6Q",
+   "fctId": "FCT0012"
+  }
+ ]
+}

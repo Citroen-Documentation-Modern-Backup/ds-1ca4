@@ -1,0 +1,18 @@
+{
+ "ref": "023506236050A",
+ "refDisplay": "0235 06 236050A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10934",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F7P",
+   "fctId": "FCT0009"
+  }
+ ]
+}
