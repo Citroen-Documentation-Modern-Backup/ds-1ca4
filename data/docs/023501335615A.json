@@ -1,18 +1,1 @@
-{
- "ref": "023501335615A",
- "refDisplay": "0235 01 335615A",
- "title": "COMMANDE VITESSES",
- "nature": "",
- "applicability": "BVM MA PILOTEE JUSQU’A OPR 10499 SAUF MONTAGE MULTIPLEXE CAN CAN",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA4",
-   "variantKey": "B0D=B0DAB&B0F=B0F6S",
-   "fctId": "FCT0018"
-  }
- ]
-}
+{"ref":"023501335615A","refDisplay":"0235 01 335615A","title":"COMMANDE VITESSES","nature":"","applicability":"BVM MA PILOTEE JUSQU’A OPR 10499 SAUF MONTAGE MULTIPLEXE CAN CAN","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA4","variantKey":"B0D=B0DAB&B0F=B0F6S","fctId":"FCT0018"}],"kind":"pr","appl":"{(?1CA4)(B0F6S)(DVQ14)/($,,1,10499)/[(DMW02)]}","tree":["document",{},[["thesaurus",{"type":"6","code":"FTH-"},[]],["thesaurus",{"type":"6","code":"FHC-"},[]],["thesaurus",{"type":"6","code":"FNQ-"},[]],["thesaurus",{"type":"6","code":"FXT-"},[]],["thesaurus",{"type":"10","code":"001394"},[]],["thesaurus",{"type":"10","code":"001498"},[]],["thesaurus",{"type":"10","code":"013569"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0235","grp":"86","grp2":"01","maj":"20110924","numfich":"335615A"},[["appl",{},["{(?1CA4)(B0F6S)(DVQ14)/($,,1,10499)/[(DMW02)]}"]],["sti",{"ident":"8601"},[]],["img",{"numfich":"00094122","path":"/img/pr/22/0009/00094122.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001394","ref":"00002400S8","refpg":"2400 S8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA4)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"277, 320, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001498","ref":"00002403Z2","refpg":"2403 Z2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA4)}"]],["complpr",{"couleur":"FTH-"},[]]]]]],["pr",{"codesi":"001498","ref":"00002403W7","refpg":"2403 W7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA4)(B0JII)(B0NYP)}"]],["complpr",{"couleur":"FHC-"},[]]]]]],["pr",{"codesi":"001498","ref":"00002403W8","refpg":"2403 W8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA4)(B0JII)(B0NZR)}"]],["complpr",{"couleur":"FNQ-"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"233, 28, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"013569","ref":"0000213304","refpg":"2133 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA4)}"]],["complpr",{"couleur":"FXT-"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"396, 82, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"00006935A6","refpg":"6935 A6"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CA4)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M6X100"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"44, 6, 11","shape":"circle"},[]],["area",{"coords":"129, 353, 11","shape":"circle"},[]]]]]]]]]]}
